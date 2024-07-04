@@ -1,1 +1,3 @@
 # Quiz_Quest
+"Quiz Quest" is an engaging web-based application designed to create, manage, and participate in interactive quizzes. The project utilizes HTML for structuring the web pages, CSS for styling and creating a visually appealing and responsive design, and JavaScript for dynamic functionality and user interaction. With real-time feedback, score tracking, and a variety of question types, "Quiz Quest" offers an enjoyable and educational experience for users. The application includes features like timed quizzes, random question generation, and user authentication to enhance the overall quiz-taking experience.
+![Quiz Quest home page](https://github.com/MarreddyAnusha/Quiz_Quest/assets/127079927/5af9c9f8-0e75-40d9-8b1b-d979f2f02a7d)
